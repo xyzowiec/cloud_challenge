@@ -1,6 +1,6 @@
 # cloud_challenge
 DareIT
 
-Adding some text to commit it then
+The URL of the object (index.htm) from bucket created in task number 6:
 
-More text (test).
+https://storage.googleapis.com/bucket-for-dareit-6/index.html
